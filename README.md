@@ -11,7 +11,7 @@ VS Code ( It's the best )
 git clone "https://github.com/RishavGoswami/ReactNativeAutomation.git"
 cd ReactNativeAutomation
 source initialize.sh <Keep the files in the root so that it would be easier to access them from anywhere>
-Make sure to change all directories to your directories so it look something like '/Users/<Your Username>/path/to/your/project'
+Make sure to change all directories to your directories so it look something like '/Users/'Your Username'/path/to/your/project'
 </pre>
 
 ## Run:
